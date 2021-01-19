@@ -40,6 +40,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat-Bold"; }
 
+  .hola {
+    width: auto;
+    padding: 12% ;
+  }
 .container-fluid {
   padding: 0; }
 
@@ -48,6 +52,9 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 0; }
   .card img {
     border-radius: 0; }
+    .card-img h-1001{
+      height: 30%;
+    }
 
 header .card a, .vr-gallery a.btn {
   background-color: #03133a;
